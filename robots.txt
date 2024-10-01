@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lenthac.github.io/sitemap.html.gz
+Sitemap: https://lenthac.github.io/app/sitemap.html.gz
+Sitemap: https://lenthac.github.io/assets/sitemap.html.gz
+Sitemap: https://lenthac.github.io/css/sitemap.html.gz
+Sitemap: https://lenthac.github.io/data/sitemap.html.gz
+Sitemap: https://lenthac.github.io/includes/sitemap.html.gz
+Sitemap: https://lenthac.github.io/item/sitemap.html.gz
+Sitemap: https://lenthac.github.io/src/sitemap.html.gz
